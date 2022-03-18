@@ -1,6 +1,6 @@
 #include<conio.h>
 #include<stdio.h>
-//#include<alloc.h>
+#include<alloc.h>
 #include<stdlib.h>
 struct list
 {
